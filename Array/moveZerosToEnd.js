@@ -1,4 +1,4 @@
-//286-Move zeros to the end of the array.
+//28three-Move zeros to the end of the array.
 function moveZeros(nums) {
   let x = 0;
   let i;
